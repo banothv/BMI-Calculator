@@ -24,7 +24,6 @@ This project allows users to enter their weight and height to calculate their BM
 
 ## Project Structure
 
-```text
 Python-Task2-BMICalculator/
 │
 ├── app.py
@@ -36,7 +35,7 @@ Python-Task2-BMICalculator/
 │
 └── static/
     └── style.css
-```
+
 
 ## BMI Categories
 
@@ -114,8 +113,13 @@ This project was created to practice Python programming, Flask web development, 
 Banoth Venkatesh
  
  # OUTPUT PICTURES
+ ### BMI Calculator:
 <img width="636" height="295" alt="Screenshot 2026-09-12 172121" src="https://github.com/user-attachments/assets/0b539afe-2a7a-46e3-9bce-db1f1bf496ca" />
+
+### BMI Calculator Website:
 <img width="915" height="412" alt="Screenshot 2026-09-12 172238" src="https://github.com/user-attachments/assets/54f7348a-07cb-40a8-8c3d-b477777f5f24" />
+
+### BMI Calculator Results Display:
 <img width="683" height="461" alt="Screenshot 2026-09-12 172300" src="https://github.com/user-attachments/assets/484669c2-acda-4b50-a465-202150e4497d" />
 
-
+# THE END
