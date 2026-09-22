@@ -23,7 +23,7 @@ This project allows users to enter their weight and height to calculate their BM
 * CSS3
 
 # 📂 Project Structure
-
+```text
 Python-Task2-BMICalculator/
 │
 ├── app.py
@@ -35,7 +35,7 @@ Python-Task2-BMICalculator/
 │
 └── static/
     └── style.css
-
+```
 
 
 ## BMI Categories
